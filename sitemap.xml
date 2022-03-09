@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mfxarc.github.io/filetags/dota/</loc>
+    <loc>https://mfxarc.github.io/blog/filetags/dota/</loc>
     <lastmod>2022-03-08T17:21:13-03:00</lastmod>
   </url><url>
-    <loc>https://mfxarc.github.io/filetags/</loc>
+    <loc>https://mfxarc.github.io/blog/filetags/</loc>
     <lastmod>2022-03-08T17:21:13-03:00</lastmod>
   </url><url>
-    <loc>https://mfxarc.github.io/posts/first_post/</loc>
+    <loc>https://mfxarc.github.io/blog/posts/first_post/</loc>
     <lastmod>2022-03-08T17:21:13-03:00</lastmod>
   </url><url>
-    <loc>https://mfxarc.github.io/</loc>
+    <loc>https://mfxarc.github.io/blog/</loc>
     <lastmod>2022-03-08T17:21:13-03:00</lastmod>
   </url><url>
-    <loc>https://mfxarc.github.io/posts/</loc>
+    <loc>https://mfxarc.github.io/blog/posts/</loc>
     <lastmod>2022-03-08T17:21:13-03:00</lastmod>
   </url>
 </urlset>
