@@ -3,6 +3,7 @@
   --light-primary-color: 231, 224, 218;
   --light-secondary-color: #DAD3CD;
   --light-tertiary-color: #322F37;
+  --light-shadow-color: 50,47,55;
   --light-text-color: #322F37;
 }
 
@@ -200,7 +201,7 @@ a:hover .feather-sun {
 }
 
 .header-shadow {
-  box-shadow: rgb(220, 220, 220) 0px 1px 5px;
+  box-shadow: rgba(var(--light-shadow-color), 0.15) 0px 1px 5px;
 }
 
 /* TAGS */
