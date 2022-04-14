@@ -260,9 +260,11 @@ pre code {
 
 blockquote {
   border-left: 2px solid var(--light-secondary-color);
-  color: grey;
+  background-color: var(--light-secondary-color);
   padding-left: 1rem;
   margin-left: 0;
+  color: var(--light-text-color);
+  font-style: italic;
 }
 
 hr {
@@ -294,14 +296,6 @@ table td {
 /* HOME PAGE */
 .home-about {
   text-align: center;
-}
-
-.home-about p {
-  text-align: center;
-  left: 0;
-  right: 0;
-  margin: 0 auto;
-  max-width: 30rem;
 }
 
 .home-about .avatar img {
