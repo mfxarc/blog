@@ -1,10 +1,9 @@
 :root {
   --content-width: 810px;
-
-  --light-primary-color: 255, 255, 255;
-  --light-secondary-color: #dddddd;
-  --light-tertiary-color: #272822;
-  --light-text-color: black;
+  --light-primary-color: 231, 224, 218;
+  --light-secondary-color: #DAD3CD;
+  --light-tertiary-color: #322F37;
+  --light-text-color: #322F37;
 }
 
 @font-face {
