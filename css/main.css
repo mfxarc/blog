@@ -33,7 +33,7 @@
 }
 
 * {
-  font-family: Libertinus Sans, sans-serif;
+  font-family: Libertinus Sans;
 }
 html {
   background-color: rgb(var(--light-primary-color));
@@ -266,7 +266,7 @@ code,
 kbd,
 samp {
   font-size: 0.92em;
-  font-family: Libertinus Sans, sans-serif;
+  font-family: Libertinus Sans;
 }
 
 :not(pre) > code {
